@@ -4,7 +4,7 @@ offset,92,0,8,16,24,32,40,48,56,64,72,80,84,88
 int32,str,str,str,str,str,str,str,str,str,str,str,str,str,str
 0,,,,,,,,,,,,,,
 1,,,,,,,,,,,,,是,否
-2,WarpRentalChocobo,HOWTO_ABOUT_RENTAL_CHOCOBO,,,,,,,,,,租借陸行鳥,,
+2,WarpRentalChocobo,HOWTO_ABOUT_RENTAL_CHOCOBO,,,,,,,,,,租借陆行鸟,,
 3,WarpInnLimsaLominsa,,,,,,,,,,,,,
 4,WarpInnGridania,,,,,,,,,,,,,
 5,WarpInnUldah,,,,,,,,,,,,,
@@ -18,4 +18,3 @@ int32,str,str,str,str,str,str,str,str,str,str,str,str,str,str
 13,WarpInnOldSharlayan,,,,,,,,,,,,,
 14,WarpSEElpis,,,,,,,,,,,,是,否
 15,WarpSEUltimaThule,,,,,,,,,,,,是,否
-16,WarpInnTuliyollal,QST_SEQ_1,QST_SEQ_FINISH,QST_KINGMD108,QST_KINGME111,QST_KINGMF114,QST_SEQ_2,QST_KINGMB104,,,,,,

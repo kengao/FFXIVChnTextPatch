@@ -2,11 +2,11 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_BANVAN106_02176_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整（限定職業）<hex:0249020103><hex:0248020103><hex:02100103>西風島的穆納瓦努看起來很憔悴。
-1,TEXT_BANVAN106_02176_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整（限定職業）任務，<hex:02100103>　需要與接受任務時的職業相同才可繼續進行任務。<hex:02100103><hex:02100103>為了解決用水不足的問題，穆納瓦努委託冒險者去獲取<hex:022811FF0A>EventItem<hex:F61E8BF40103>。不過在此之前，需要獲得人類頭領的許可。和玫瑰園的拉妮艾特談談。
-2,TEXT_BANVAN106_02176_SEQ_02,和拉妮艾特進行了交談，得到了獲取<hex:022811FF0A>EventItem<hex:F61E8BF40103>的許可。在沃仙曦染獲取3個<hex:022811FF0A>EventItem<hex:F61E8BF40103>。
-3,TEXT_BANVAN106_02176_SEQ_03,獲得了3個<hex:022811FF0A>EventItem<hex:F61E8BF40103>。將<hex:022811FF0A>EventItem<hex:F61E8BF40103>交給西風島的穆納瓦努。
-4,TEXT_BANVAN106_02176_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8BF40103>交給了穆納瓦努。據他所說，平時用的都是下雨天儲存下來的雨水，只有存水不足時，才會要用到<hex:022811FF0A>EventItem<hex:F61E8BF40103>。
+0,TEXT_BANVAN106_02176_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊规则： 等级调整（限定职业）<hex:0249020103><hex:0248020103><hex:02100103>西风岛的穆纳瓦努看起来很憔悴。
+1,TEXT_BANVAN106_02176_SEQ_01,※本任务为<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等级调整（限定职业）任务，<hex:02100103>　需要与接受任务时的职业相同才可继续进行任务。<hex:02100103><hex:02100103>为了解决用水不足的问题，穆纳瓦努委托冒险者去获取<hex:022811FF0A>EventItem<hex:F61E8BF40103>。不过在此之前，需要获得人类头领的许可。和玫瑰园的拉妮艾特谈谈。
+2,TEXT_BANVAN106_02176_SEQ_02,和拉妮艾特进行了交谈，得到了获取<hex:022811FF0A>EventItem<hex:F61E8BF40103>的许可。在沃仙曦染获取3个<hex:022811FF0A>EventItem<hex:F61E8BF40103>。
+3,TEXT_BANVAN106_02176_SEQ_03,获得了3个<hex:022811FF0A>EventItem<hex:F61E8BF40103>。将<hex:022811FF0A>EventItem<hex:F61E8BF40103>交给西风岛的穆纳瓦努。
+4,TEXT_BANVAN106_02176_SEQ_04,将<hex:022811FF0A>EventItem<hex:F61E8BF40103>交给了穆纳瓦努。据他所说，平时用的都是下雨天储存下来的雨水，只有存水不足时，才会要用到<hex:022811FF0A>EventItem<hex:F61E8BF40103>。
 5,TEXT_BANVAN106_02176_SEQ_05,
 6,TEXT_BANVAN106_02176_SEQ_06,
 7,TEXT_BANVAN106_02176_SEQ_07,
@@ -26,9 +26,9 @@ int32,str,str
 21,TEXT_BANVAN106_02176_SEQ_21,
 22,TEXT_BANVAN106_02176_SEQ_22,
 23,TEXT_BANVAN106_02176_SEQ_23,
-24,TEXT_BANVAN106_02176_TODO_00,和拉妮艾特對話
-25,TEXT_BANVAN106_02176_TODO_01,獲取<hex:022811FF0A>EventItem<hex:F61E8BF40103>
-26,TEXT_BANVAN106_02176_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8BF40103>交給穆納瓦努
+24,TEXT_BANVAN106_02176_TODO_00,和拉妮艾特对话
+25,TEXT_BANVAN106_02176_TODO_01,获取<hex:022811FF0A>EventItem<hex:F61E8BF40103>
+26,TEXT_BANVAN106_02176_TODO_02,将<hex:022811FF0A>EventItem<hex:F61E8BF40103>交给穆纳瓦努
 27,TEXT_BANVAN106_02176_TODO_03,
 28,TEXT_BANVAN106_02176_TODO_04,
 29,TEXT_BANVAN106_02176_TODO_05,
@@ -50,17 +50,17 @@ int32,str,str
 45,TEXT_BANVAN106_02176_TODO_21,
 46,TEXT_BANVAN106_02176_TODO_22,
 47,TEXT_BANVAN106_02176_TODO_23,
-48,TEXT_BANVAN106_02176_MUNAVANU_000_000,水、水……水不夠了……<hex:02100103>能請、能請你去人類所說的沃仙曦染那裡，<hex:02100103>獲取3個左右的<hex:022811FF0A>EventItem<hex:F61E8BF40103>嗎？
-49,TEXT_BANVAN106_02176_MUNAVANU_000_001,人類也會將<hex:022811FF0A>EventItem<hex:F61E8BF40103>作為水源來使用。<hex:02100103>雖然我們之前也用這些水晶作為水源，<hex:02100103>但現在擅自取用的話，也許會引起矛盾。
-50,TEXT_BANVAN106_02176_MUNAVANU_000_002,所以、所以，麻煩你去人類的陣地，<hex:02100103>取得人類頭領的許可後再去獲取水晶……<hex:02100103>這件事只能拜託給身為人類的你，真的拜託你了！！
-51,TEXT_BANVAN106_02176_LANIAITTE_000_010,袞杜族想要<hex:022811FF0A>EventItem<hex:F61E8BF40103>？<hex:02100103>原來如此，沒問題，想拿多少拿多少。
-52,TEXT_BANVAN106_02176_LANIAITTE_000_011,說起來，袞杜族才是這裡的原住民們，<hex:02100103>也不需要獲得我們這些外來者的許可。<hex:02100103>請你幫我轉告袞杜族，謝謝他們考慮得如此周全。
-53,TEXT_BANVAN106_02176_LANIAITTE_000_015,既然<hex:022903EB0203>在幫助袞杜族的話，<hex:02100103>那就代表我們有機會和袞杜族重歸當初的友好關係。<hex:02100103>畢竟我們也不想把關係鬧得那麼僵。
-54,TEXT_BANVAN106_02176_LANIAITTE_000_030,既然<hex:022903EB0203>在幫助袞杜族的話，<hex:02100103>那就代表我們有機會和袞杜族重歸當初的友好關係。<hex:02100103>畢竟我們也不想把關係鬧得那麼僵。
-55,TEXT_BANVAN106_02176_MUNAVANU_000_040,<hex:022903EB0203>，等你好久了。<hex:02100103>你取來<hex:022811FF0A>EventItem<hex:F61E8BF40103>了嗎？
-56,TEXT_BANVAN106_02176_MUNAVANU_000_041,看起來、看起來裡面儲藏了很多水嘛！<hex:02100103>有了水量這麼充沛的<hex:022811FF0A>EventItem<hex:F61E8BF40103>，<hex:02100103>一定可以像運送種子的風那樣造福眾生呢。
-57,TEXT_BANVAN106_02176_MUNAVANU_000_042,在雲海，用水是一大難題，就連我們也沒有好辦法。<hex:02100103>雖然我們平時會儲存足量的雨水，但這次實在不夠用，<hex:02100103>所以才會需要<hex:022811FF0A>EventItem<hex:F61E8BF40103>。
-58,TEXT_BANVAN106_02176_MUNAVANU_000_043,能夠、能夠獲得人類的許可，真是太好了。<hex:02100103>我們光是對抗冷酷的溫杜族就已經精疲力盡了，<hex:02100103>所以，還是希望和人類建立起友好關係的。
+48,TEXT_BANVAN106_02176_MUNAVANU_000_000,水、水……水不够了……<hex:02100103>能请、能请你去人类所说的沃仙曦染那里，<hex:02100103>获取3个左右的<hex:022811FF0A>EventItem<hex:F61E8BF40103>吗？
+49,TEXT_BANVAN106_02176_MUNAVANU_000_001,人类也会将<hex:022811FF0A>EventItem<hex:F61E8BF40103>作为水源来使用。<hex:02100103>虽然我们之前也用这些水晶作为水源，<hex:02100103>但现在擅自取用的话，也许会引起矛盾。
+50,TEXT_BANVAN106_02176_MUNAVANU_000_002,所以、所以，麻烦你去人类的阵地，<hex:02100103>取得人类头领的许可后再去获取水晶……<hex:02100103>这件事只能拜托给身为人类的你，真的拜托你了！！
+51,TEXT_BANVAN106_02176_LANIAITTE_000_010,衮杜族想要<hex:022811FF0A>EventItem<hex:F61E8BF40103>？<hex:02100103>原来如此，没问题，想拿多少拿多少。
+52,TEXT_BANVAN106_02176_LANIAITTE_000_011,说起来，衮杜族才是这里的原住民们，<hex:02100103>也不需要获得我们这些外来者的许可。<hex:02100103>请你帮我转告衮杜族，谢谢他们考虑得如此周全。
+53,TEXT_BANVAN106_02176_LANIAITTE_000_015,既然<hex:022903EB0203>在帮助衮杜族的话，<hex:02100103>那就代表我们有机会和衮杜族重归当初的友好关系。<hex:02100103>毕竟我们也不想把关系闹得那么僵。
+54,TEXT_BANVAN106_02176_LANIAITTE_000_030,既然<hex:022903EB0203>在帮助衮杜族的话，<hex:02100103>那就代表我们有机会和衮杜族重归当初的友好关系。<hex:02100103>毕竟我们也不想把关系闹得那么僵。
+55,TEXT_BANVAN106_02176_MUNAVANU_000_040,<hex:022903EB0203>，等你好久了。<hex:02100103>你取来<hex:022811FF0A>EventItem<hex:F61E8BF40103>了吗？
+56,TEXT_BANVAN106_02176_MUNAVANU_000_041,看起来、看起来里面储藏了很多水嘛！<hex:02100103>有了水量这么充沛的<hex:022811FF0A>EventItem<hex:F61E8BF40103>，<hex:02100103>一定可以像运送种子的风那样造福众生呢。
+57,TEXT_BANVAN106_02176_MUNAVANU_000_042,在云海，用水是一大难题，就连我们也没有好办法。<hex:02100103>虽然我们平时会储存足量的雨水，但这次实在不够用，<hex:02100103>所以才会需要<hex:022811FF0A>EventItem<hex:F61E8BF40103>。
+58,TEXT_BANVAN106_02176_MUNAVANU_000_043,能够、能够获得人类的许可，真是太好了。<hex:02100103>我们光是对抗冷酷的温杜族就已经精疲力尽了，<hex:02100103>所以，还是希望和人类建立起友好关系的。
 59,TEXT_BANVAN106_02176_LANIAITTE_000_031,（★未使用／削除予定★）
 60,TEXT_BANVAN106_02176_LANIAITTE_000_032,（★未使用／削除予定★）
 61,TEXT_BANVAN106_02176_LANIAITTE_000_033,（★未使用／削除予定★）

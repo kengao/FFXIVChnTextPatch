@@ -2,15 +2,15 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_1,這裡的斷崖夠壯觀的吧？<hex:02100103>就是因為這斷崖，才建造了這麼個龐然大物，<hex:02100103>好讓人和貨物來往流通。
-1,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_2,我們幾個運貨人一起經營著氣球升降機「天梯」。<hex:02100103>你就當我是這行的代表就成了。
-2,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_3,不過，原本這利姆薩·羅敏薩是海盜城市，<hex:02100103>在決定事情的時候，海盜們都投票表決，<hex:02100103>因此我們也沿襲這習慣，用投票的方式決定天梯的事。
-3,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_4,說是代表，其實我只是個主持集會和投票活動的人。<hex:02100103>說白了就是同行間的潤滑劑。
-4,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_100_4,既然要當潤滑劑，<hex:02100103>那就不能讓送貨工作有所停滯。
-5,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_5,第七靈災引起了地殼運動，導致橫斷崖產生，<hex:02100103>南北截斷了中拉諾西亞。 <hex:02100103>而能夠橫跨斷崖的設施就建在這裡。
-6,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_6,如果是沿岸地區的話用船運就成了，<hex:02100103>但要往內陸地區的設施和村落運送貨物，<hex:02100103>那就要靠陸運了。
-7,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_7,雖說我們也想造一條能過貨車的坡道，<hex:02100103>但那麼大的工程又花錢又花時間。<hex:02100103>目前只能靠這氣球忍一忍了。
-8,TEXT_REGSEASKYLIFT_00071_Q1_000_1,想了解什麼？
-9,TEXT_REGSEASKYLIFT_00071_A1_000_1,你是做什麼的？
-10,TEXT_REGSEASKYLIFT_00071_A1_000_2,這裡是什麼地方？
+0,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_1,这里的断崖够壮观的吧？<hex:02100103>就是因为这断崖，才建造了这么个庞然大物，<hex:02100103>好让人和货物来往流通。
+1,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_2,我们几个运货人一起经营着气球升降机“天梯”。<hex:02100103>你就当我是这行的代表就成了。
+2,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_3,不过，原本这利姆萨·罗敏萨是海盗城市，<hex:02100103>在决定事情的时候，海盗们都投票表决，<hex:02100103>因此我们也沿袭这习惯，用投票的方式决定天梯的事。
+3,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_4,说是代表，其实我只是个主持集会和投票活动的人。<hex:02100103>说白了就是同行间的润滑剂。
+4,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_100_4,既然要当润滑剂，<hex:02100103>那就不能让送货工作有所停滞。
+5,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_5,第七灵灾引起了地壳运动，导致横断崖产生，<hex:02100103>南北截断了中拉诺西亚。 <hex:02100103>而能够横跨断崖的设施就建在这里。
+6,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_6,如果是沿岸地区的话用船运就成了，<hex:02100103>但要往内陆地区的设施和村落运送货物，<hex:02100103>那就要靠陆运了。
+7,TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_7,虽说我们也想造一条能过货车的坡道，<hex:02100103>但那么大的工程又花钱又花时间。<hex:02100103>目前只能靠这气球忍一忍了。
+8,TEXT_REGSEASKYLIFT_00071_Q1_000_1,想了解什么？
+9,TEXT_REGSEASKYLIFT_00071_A1_000_1,你是做什么的？
+10,TEXT_REGSEASKYLIFT_00071_A1_000_2,这里是什么地方？
 11,TEXT_REGSEASKYLIFT_00071_A1_000_3,取消
