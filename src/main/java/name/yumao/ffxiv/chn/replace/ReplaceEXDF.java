@@ -316,7 +316,7 @@ public class ReplaceEXDF {
 																}
 															}
 															if (newString.length() > 0) {
-																newFFXIVString = ArrayUtil.append(newFFXIVString, newString.getBytes("UTF-8"));
+																newFFXIVString = ArrayUtil.append(newFFXIVString, convertString(newString.getBytes("UTF-8")));
 																newString = "";
 															}
 															newString += currentChar;
@@ -337,7 +337,7 @@ public class ReplaceEXDF {
 													}
 												}
 												if (!newString.isEmpty()) {
-													newFFXIVString = ArrayUtil.append(newFFXIVString, newString.getBytes("UTF-8"));
+													newFFXIVString = ArrayUtil.append(newFFXIVString, convertString(newString.getBytes("UTF-8")));
 													newString = "";
 												}
 											} else {

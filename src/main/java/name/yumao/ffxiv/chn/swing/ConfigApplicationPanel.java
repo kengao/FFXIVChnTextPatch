@@ -188,8 +188,8 @@ public class ConfigApplicationPanel extends JFrame implements ActionListener {
 		this.sLangLableVal.setSelectedItem(Language.getNameByLang(Config.getProperty("SLanguage")));
 		this.dLangLableVal.setSelectedItem(Language.getNameByLang(Config.getProperty("DLanguage")));
 		if (Config.getProperty("FLanguage").equals("CSV") || ((String)this.fLangLableVal.getSelectedItem()).equals("CSV")) {
-			this.dLangLable.setVisible(false);
-			this.dLangLableVal.setVisible(false);
+			//this.dLangLable.setVisible(false);
+			//this.dLangLableVal.setVisible(false);
 		}
 		
 		this.rFont.setBounds(30, 160, 80, 20);
@@ -255,8 +255,8 @@ public class ConfigApplicationPanel extends JFrame implements ActionListener {
 			String selected = (String)this.fLangLableVal.getSelectedItem();
 			// System.out.println(selected);
 			if (selected == "CSV") {
-				this.dLangLable.setVisible(false);
-				this.dLangLableVal.setVisible(false);
+				//this.dLangLable.setVisible(false);
+				//this.dLangLableVal.setVisible(false);
 			} else {
 				this.dLangLable.setVisible(true);
 				this.dLangLableVal.setVisible(true);

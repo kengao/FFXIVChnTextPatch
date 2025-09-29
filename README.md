@@ -1,3 +1,12 @@
+# 2025年09月30日
+
+This project merges <https://github.com/GpointChen/FFXIVChnTextPatch-GP> and <https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma> into a workable version for current patch.
+
+Only tested on Mac. 
+
+
+----
+
 # FFXIV Translation Patch Tool
 FFXIV的中文漢化器。更多資訊可參考[Wiki頁面](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki)。
 
