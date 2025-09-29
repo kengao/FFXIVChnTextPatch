@@ -47,7 +47,7 @@ int32,str,str
 42,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_201,帝国现在的体制让我稍微有些想法。<hex:02100103>于是我就趁着他们离开帝国的机会搭上了便船，<hex:02100103>想要去各国走走看看。
 43,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_202,将来希望能把我的流浪经历写下来整理出版。<hex:02100103>不过最近比起写作我还是做饭做得更多一些，<hex:02100103>毕竟我脸皮还没厚到跑来白吃白住。
 44,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_220,你是指在黄金港遇到的那个吟游诗人吗？<hex:02100103>总觉得那个人给人的感觉有些奇怪呢。<hex:02100103>比起诗人更像是承办人……
-45,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_221,吟游诗人是将听到的故事通过诗歌传唱的人，<hex:02100103>不过那位异国诗人却是亲自给予冒险者试炼，<hex:02100103>收获冒险者通过试炼后历经磨砺的灵魂，以此再进行创作……
+45,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_221,吟游诗人是将听到的故事通过诗歌传唱的人，<hex:02100103>不过那位异国的诗人却是亲自给予冒险者试炼，<hex:02100103>收获冒险者通过试炼后历经磨砺的灵魂，以此再进行创作……
 46,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_222,他散发的独特气场宛如世界的造物主一般。<hex:02100103>不，这并没有什么根据，只是我这么觉得。<hex:02100103>身为从事创作性行业的一员，我应该多多向他学习。
 47,TEXT_REGHIN3WANDERINGWRITER_00435_Q2_000_000,想了解什么？
 48,TEXT_REGHIN3WANDERINGWRITER_00435_A2_000_000,关于占领达尔马斯卡
@@ -114,6 +114,6 @@ int32,str,str
 109,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_640,我听芙兰女士说，艾欧泽亚同盟和东方联盟都答应了<hex:02100103>她后来提出的收容旧达尔马斯卡王国难民的请求。
 110,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_643,我听芙兰女士说，艾欧泽亚同盟和多玛都答应了<hex:02100103>她后来提出的收容旧达尔马斯卡王国难民的请求。
 111,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_645,毕竟达尔马斯卡不是只有参加抵抗组织的人，<hex:02100103>还有着很多无法战斗的老人、孩子、伤员。<hex:02100103>就算没办法进行军事支援，至少也希望对方能接纳一些难民。
-112,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_646,芙兰女士询问了两阵营的意向，<hex:02100103>欣慰的得到了他们的同意。
+112,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_646,芙兰女士询问了两阵营的意向，<hex:02100103>欣慰地得到了他们的同意。
 113,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_647,虽然把全国的难民都转移走并不现实，<hex:02100103>但终究能逃离战祸的人越多，<hex:02100103>将来重兴达尔马斯卡王国的希望就越大。
 114,TEXT_REGHIN3WANDERINGWRITER_00435_WANDERINGWRITER_000_648,真切希望达尔马斯卡行省能尽快脱离第四军团的统治，<hex:02100103>回到他们的手中……<hex:02100103>哎呀！“真切的愿望”这种词不可以随意说出口来着。

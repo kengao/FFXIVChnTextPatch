@@ -30,11 +30,11 @@ int32,str,str
 25,TEXT_CTSSFSCHARACTER3_00481_GUIDE_001_001,目前的信赖度会显示在委托品列表上方的信赖槽中，<hex:02100103>如果信赖槽积满，信赖等级就会提高。<hex:02100103>另外，信赖等级会用心形图案来表示。
 26,TEXT_CTSSFSCHARACTER3_00481_GUIDE_001_002,每当信赖等级提高，<hex:02100103>就可以看到与<hex:022812FF0D>ENpcResident<hex:E8020103>有关的新故事。
 27,TEXT_CTSSFSCHARACTER3_00481_GUIDE_007_000,交纳收藏品需要收藏品对应的职业在62级以上才能进行。
-28,TEXT_CTSSFSCHARACTER3_00481_GUIDE_007_001,交纳时，若收藏品所对应的职业等级为90级，<hex:02100103>将会得到工票作为报酬，<hex:02100103>若对应职业未满90级，将会得到经验作为报酬。
+28,TEXT_CTSSFSCHARACTER3_00481_GUIDE_007_001,交纳时，若收藏品所对应的职业等级为100级，<hex:02100103>将会得到工票作为报酬，<hex:02100103>若对应职业未满100级，将会得到经验作为报酬。
 29,TEXT_CTSSFSCHARACTER3_00481_GUIDE_002_000,如果想要调查委托品列表中的道具的获得方法，<hex:02100103>就请活用次级指令与道具说明吧。
 30,TEXT_CTSSFSCHARACTER3_00481_GUIDE_002_001,能工巧匠分类的委托品，只需要在打开列表的状态下，<hex:02100103>执行次级指令“搜索制作道具的配方”，<hex:02100103>就可以打开制作笔记，看到制作配方。
 31,TEXT_CTSSFSCHARACTER3_00481_GUIDE_002_002,采矿工或园艺工分类的委托品，只需要在打开列表的状态下，<hex:02100103>执行次级指令“搜索采集方法”，<hex:02100103>就可以打开采集笔记，看到采集地点。
-32,TEXT_CTSSFSCHARACTER3_00481_GUIDE_002_003,捕鱼人分类的委托品，<hex:02100103>在打开列表的状态下执行次级指令“显示入手场所”，<hex:02100103>就会显示出可以获得该种鱼类的钓场或渔场。
+32,TEXT_CTSSFSCHARACTER3_00481_GUIDE_002_003,捕鱼人分类的委托品，<hex:02100103>在打开列表的状态下执行次级指令“显示获取地点”，<hex:02100103>就会显示出可以获得该种鱼类的钓场或渔场。
 33,TEXT_CTSSFSCHARACTER3_00481_GUIDE_102_003,另外垂钓时推荐使用<hex:02280BFF05>Item<hex:F26FDA0103>作为钓饵。
 34,TEXT_CTSSFSCHARACTER3_00481_GUIDE_002_004,可以交给<hex:022812FF0D>ENpcResident<hex:E8020103>的道具<hex:02100103>分为能工巧匠、采矿工与园艺工、捕鱼人三种，<hex:02100103>并且需要所有物品均为“收藏品”。
 35,TEXT_CTSSFSCHARACTER3_00481_GUIDE_003_000,制作委托品的必要材料，<hex:02100103>可以在碧玉水西南侧的甲人族杂用商人处购买。
@@ -53,12 +53,12 @@ int32,str,str
 48,TEXT_CTSSFSCHARACTER3_00481_GUIDE_006_003,如果鱼的大小无法顺利提高的话，<hex:02100103>可以调整装备提高“鉴别力”。
 49,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_000,可以交给<hex:022812FF0D>ENpcResident<hex:E8020103>的道具<hex:02100103>分为能工巧匠、采矿工与园艺工、捕鱼人三种，<hex:02100103>并且需要所有物品均为“收藏品”。
 50,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_008,交纳收藏品需要收藏品对应的职业在62级以上才能进行。
-51,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_009,交纳时，若收藏品所对应的职业等级为90级，<hex:02100103>将会得到工票作为报酬，<hex:02100103>若对应职业未满90级，将会得到经验作为报酬。
+51,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_009,交纳时，若收藏品所对应的职业等级为100级，<hex:02100103>将会得到工票作为报酬，<hex:02100103>若对应职业未满100级，将会得到经验作为报酬。
 52,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_001,关于交纳用的收藏品的获取方法，<hex:02100103>可以分别通过以下方式调查。
 53,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_002,能工巧匠分类的委托品，只需要在打开列表的状态下，<hex:02100103>执行次级指令“搜索制作道具的配方”，<hex:02100103>就可以打开制作笔记，看到制作配方。
 54,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_003,制作委托品的必要材料，<hex:02100103>可以在碧玉水西南侧的甲人族杂用商人处购买。
 55,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_004,采矿工或园艺工分类的委托品，只需要在打开列表的状态下，<hex:02100103>执行次级指令“搜索采集方法”，<hex:02100103>就可以打开采集笔记，看到采集地点。
-56,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_005,捕鱼人分类的委托品，<hex:02100103>在打开列表的状态下执行次级指令“显示入手场所”，<hex:02100103>就会显示出可以获得该种鱼类的钓场或渔场。
+56,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_005,捕鱼人分类的委托品，<hex:02100103>在打开列表的状态下执行次级指令“显示获取地点”，<hex:02100103>就会显示出可以获得该种鱼类的钓场或渔场。
 57,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_100_005,另外垂钓时推荐使用<hex:02280BFF05>Item<hex:F26FDA0103>作为钓饵。
 58,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_006,所交道具的收藏价值越高，交纳时获得的报酬就越丰厚。
 59,TEXT_CTSSFSCHARACTER3_00481_TUTORIAL_000_007,如果想知道“提高收藏价值的方法”，<hex:02100103>可以去找<hex:022812FF0D>ENpcResident<hex:E8020103>对话，<hex:02100103>选择“询问有关老主顾交易”，就可以查看了！
@@ -87,7 +87,7 @@ int32,str,str
 82,TEXT_CTSSFSCHARACTER3_00481_KNOWLEDGE_MNAAGO_002_003,（★未使用／削除予定★）
 83,TEXT_CTSSFSCHARACTER3_00481_KNOWLEDGE_MNAAGO_002_004,（★未使用／削除予定★）
 84,TEXT_CTSSFSCHARACTER3_00481_KNOWLEDGE_KURENAI_003_000,基拉巴尼亚那边会把动物的角和骨头捣碎做成药茶啊……<hex:02100103>这种<hex:02280AFF05>Item<hex:E8020103>的骨头<hex:02100103>应该也能起到同样的效果！
-85,TEXT_CTSSFSCHARACTER3_00481_KNOWLEDGE_KURENAI_003_001,哇，真是又尖又长的牙！<hex:02100103>这么长的牙用来做鱼叉的枪尖也没有问题。<hex:02100103>基拉巴尼亚的知识里灵活运用自然的恩惠这一点让我感慨万分。
+85,TEXT_CTSSFSCHARACTER3_00481_KNOWLEDGE_KURENAI_003_001,哇，真是又尖又长的牙！<hex:02100103>这么长的牙用来做渔叉的枪尖也没有问题。<hex:02100103>基拉巴尼亚的知识里灵活运用自然的恩惠这一点让我感慨万分。
 86,TEXT_CTSSFSCHARACTER3_00481_KNOWLEDGE_KURENAI_003_002,用<hex:02280AFF05>Item<hex:E8020103>的鳞片来做保暖装……<hex:02100103>库尔札斯好像也有用龙鳞制作的防寒用品。<hex:02100103>外面的人们的智慧和想象力总是令人惊讶！
 87,TEXT_CTSSFSCHARACTER3_00481_KNOWLEDGE_KURENAI_003_003,哎呀，这<hex:02280AFF05>Item<hex:E8020103>真棒……<hex:02100103>看来能够采到大颗的珍珠呢。<hex:02100103>把这个作为翠水乡的特产，我想应该能够博得好评！
 88,TEXT_CTSSFSCHARACTER3_00481_KNOWLEDGE_KURENAI_003_004,水中居然还生活着这样的生物……<hex:02100103>云海真是个不可思议的地方啊。<hex:02100103>翠水乡的大家肯定也会感到新奇的！
@@ -224,7 +224,7 @@ int32,str,str
 219,TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_004_000,今天也收到了您提供的东西，谢谢。
 220,TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_004_001,这些东西不仅能让民众开心，<hex:02100103>能够触摸到连书上都没有记载的美妙的物品，<hex:02100103>也让我有了美好的经历。
 221,TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_004_002,呵呵呵，这也是一点小便宜呢。<hex:02100103>我虽然还很不成熟，但还请多多关照。
-222,TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_005_000,谢谢您这次这次也来交纳物品。
+222,TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_005_000,谢谢您这次也来交纳物品。
 223,TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_005_001,最近没有什么大型仪式，<hex:02100103>我只需要定期回紫水宫，处理红玉公主的事务就可以了……<hex:02100103>所以在来这里之前，我就去了一下书库。
 224,TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_005_002,我很在意这些收到的物品有没有相近的物品啊、<hex:02100103>出产的土地是哪里啊之类的……<hex:02100103>在您的帮助下，我对外面的世界比以前更加了解了！
 225,TEXT_CTSSFSCHARACTER3_00481_RANKUP_KURENAI_006_000,一直以来向我们提供物品真是太感谢了！

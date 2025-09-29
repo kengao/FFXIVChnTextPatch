@@ -1,9 +1,13 @@
-﻿key,0,1
-#,Name,Description
+﻿key,9,10
+#,Description,
 offset,0,4
 int32,str,str
 0,,
-1,THE BOZJAN SOUTHERN FRONT,南方博兹雅战线
-2,CONTENTS : DUNGEON,迷宫挑战
-3,VARIANT DUNGEON,多变迷宫
-4,ISLAND SANCTUARY,开拓无人岛
+1,南方博兹雅战线,
+2,迷宫挑战,
+3,多变迷宫,
+4,开拓无人岛,
+5,初学者学堂,
+6,初学者学堂,
+7,蜃景幻界新月岛,
+8,宇宙探索,

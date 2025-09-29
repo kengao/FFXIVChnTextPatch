@@ -49,12 +49,18 @@ int32,str,str,str
 44,Pugilist,莉瑟,格斗家
 45,Samurai,豪雪,武士
 46,Samurai,飞燕,武士
-47,Shaman,模儿部青年,萨满
+47,Shaman,模儿部的年轻人,萨满
 48,Ninja,夕雾,忍者
 49,Samurai,多玛勇士,武士
-50,Fushi,多玛萨满,巫师
-51,Gladiator,阿拉米格解放军战士,剑术师
-52,Pikedancer,阿拉米格解放军刺舞兵,尖枪兵
+50,Fushi,多玛巫师,巫师
+51,Gladiator,解放军战士,剑术师
+52,Pikedancer,解放军尖枪兵,尖枪兵
 53,Gladiator,阿雷恩瓦尔德,剑术师
 54,Pugilist,莉瑟,格斗家
 55,Champion Gladiator,劳班,剑斗士
+56,Lancer,嘉·莫尔巴,枪术师
+57,Intrepid,乌克·拉玛特,勇士
+58,Viper,佐拉加,蝰蛇剑士
+59,Innovator,柯纳,革新者
+60,Pictomancer,可露儿,绘灵法师
+61,Zoemancer,斯菲因,命术师
