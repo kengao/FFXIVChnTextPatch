@@ -1,12 +1,16 @@
 # FFXIV Translation Patch Tool
 
-This project merges <https://github.com/GpointChen/FFXIVChnTextPatch-GP> and <https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma> into a workable version for current patch. (7.3 at this moment)
+This project merges 
+- <https://github.com/GpointChen/FFXIVChnTextPatch-GP>
+- <https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma> 
 
+into a workable version for current patch.
 Currently only tested on MacOS.
 
 ----
 
-# FFXIV Translation Patch Tool
+# Original Read Me
+
 FFXIV的中文漢化器。更多資訊可參考[Wiki頁面](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki)。
 
 English description can be found in [Wiki pages](https://github.com/GpointChen/FFXIVChnTextPatch-GP/wiki).
