@@ -1,7 +1,7 @@
 ﻿key,0,2
 #,Singular,Plural
 offset,0,4
-int32,str,str
+Int32,String,String
 0,,
 1,爆弹仔,
 2,自走人偶001号,
@@ -571,7 +571,7 @@ int32,str,str
 566,罪河狸,
 567,,
 568,,
-569,,
+569,嗡鸣威,
 570,究极战士G型MGSD模型,
 571,拉诺西亚短毛猫,
 572,勇敢牧羊犬,
