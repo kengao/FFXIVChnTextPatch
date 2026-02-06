@@ -29,6 +29,7 @@
 幻仗=幻杖
 介于搜索范围=鑑於搜索範圍
 血脉偾张=血脈賁張
+亚历山德里亚=亞歷山德里亞
 Y‘shtola=Y‘shtola
 L’Heritier=L’Heritier
 isn‘t=isn‘t
@@ -824,6 +825,7 @@ haven‘t=haven‘t
 #其他
 准金属=準金屬
 人鱼发=人魚髮
+発晶=髮晶
 
 
 ##一般常用
